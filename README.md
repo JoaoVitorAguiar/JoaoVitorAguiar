@@ -46,6 +46,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorAguiar&layout=donut&theme=radical)](https://github.com/JoaoVitorAguiar/github-readme-stats)
 
+ #
+ 
 ## Sobre mim
 
 Olá! Meu nome é [Seu Nome], e sou um desenvolvedor .NET Junior apaixonado por tecnologia e programação. Atualmente, estou buscando oportunidades para aprimorar minhas habilidades de desenvolvimento e contribuir para projetos interessantes.
